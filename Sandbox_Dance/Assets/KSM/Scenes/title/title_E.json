@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "D:/수민/재택/샌드박스/몰래춤추기/영어/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 0", "bone": "root", "attachment": "Layer 0" }
+],
+"skins": {
+	"default": {
+		"Layer 0": {
+			"Layer 0": { "x": 505.5, "y": -394.5, "width": 1013, "height": 791 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,16 @@
+{ "skeleton": { "images": "/d/수민/재택/샌드박스/몰래춤추기/스파인/220225 spine/Title/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 0", "bone": "root", "attachment": "Layer 0" }
+],
+"skins": {
+	"default": {
+		"Layer 0": {
+			"Layer 0": { "x": 296, "y": -306, "width": 594, "height": 614 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
