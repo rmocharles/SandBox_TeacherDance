@@ -6,15 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/KSM/Scenes/0. Logo.unity
+    path: Assets/KSM/NEWKSM/Scenes/0. Logo.unity
     guid: 6988495f7563ecf45b06ea0ffa62b180
   - enabled: 1
-    path: Assets/KSM/Scenes/1. Login.unity
-    guid: 2d104360af2e2e44da62062a94ee796f
-  - enabled: 1
-    path: Assets/KSM/Scenes/2. Lobby.unity
+    path: Assets/KSM/NEWKSM/Scenes/2. Lobby.unity
     guid: b8ed402469ee162478ca454c5144c584
   - enabled: 1
-    path: Assets/KSM/Scenes/3. Game.unity
+    path: Assets/KSM/NEWKSM/Scenes/3. Game.unity
     guid: 5abcca83d9f92754991a5e3465e44b38
   m_configObjects: {}

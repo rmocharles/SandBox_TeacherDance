@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 660911240, guid: f624596d5fe1bd5459a5da424a8abc1b, type: 3}
   m_Name: TheBackendSettings
   m_EditorClassIdentifier: 
-  clientAppID: 116d21d0-8af8-11ec-bb36-8f229c4de4133159
-  signatureKey: 116d21d1-8af8-11ec-bb36-8f229c4de4133159
+  clientAppID: a0e6e020-db4e-11ec-9e97-199904d58dc73546
+  signatureKey: a0e6e021-db4e-11ec-9e97-199904d58dc73546
   functionAuthKey: 
-  packageName: com.TouchTouch.Sandbox_Dance
+  packageName: com.sandboxgame.dance
   isAllPlatform: 1
   sendLogReport: 1
   timeOutSec: 100

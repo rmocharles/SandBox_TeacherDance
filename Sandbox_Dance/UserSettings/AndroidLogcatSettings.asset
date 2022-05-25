@@ -24,6 +24,12 @@
             "deviceId": "R3CN40FA6DY",
             "name": "com.TouchTouch.Sandbox_Dance",
             "processId": 17029,
+            "exited": true
+        },
+        {
+            "deviceId": "R3CN40FA6DY",
+            "name": "com.sec.android.app.launcher",
+            "processId": 7402,
             "exited": false
         }
     ],

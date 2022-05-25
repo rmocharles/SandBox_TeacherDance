@@ -18,7 +18,6 @@ MonoBehaviour:
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
   windowTime: 0
   verticalScroll: 0
-  showMarkerHeader: 0
   sequencerHeaderWidth: 315
   m_Keys:
   - {fileID: 638731827646113043, guid: 4ae86cda7a72c3145a30e782f33fada0, type: 2}

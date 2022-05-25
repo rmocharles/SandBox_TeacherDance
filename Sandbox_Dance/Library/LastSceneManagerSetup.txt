@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/KSM/Scenes/1. Login.unity
+- path: Assets/KSM/NEWKSM/Scenes/2. Lobby.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
